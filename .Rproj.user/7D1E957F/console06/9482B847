@@ -1,0 +1,16 @@
+]0;/home/imran/research/apriori]0;imran@imran-Satellite-Pro-L640: ~/research/aprioriimran:~/research/apriori$ ls -al
+total 4756
+drwxr-xr-x  4 imran imran    4096 Oct 31 21:44 [0m[01;34m.[0m
+drwx------ 73 imran imran    4096 Oct 31 21:22 [01;34m..[0m
+-rw-rw-r--  1 imran imran     346 Oct 31 21:39 apriori.R
+-rw-rw-r--  1 imran imran     205 Oct 31 21:44 apriori.Rproj
+-rw-rw-r--  1 imran imran    2690 Oct 31 21:44 .RData
+-rw-rw-r--  1 imran imran     201 Oct 31 21:44 .Rhistory
+drwxrwxr-x  4 imran imran    4096 Oct 31 21:24 [01;34m.Rproj.user[0m
+drwxr-xr-x  2 imran imran    4096 Oct 31 21:23 [01;34mtransactionfiles[0m
+-rw-rw-r--  1 imran imran 4828234 Oct 31 21:19 [01;31mtransactionfiles.zip[0m
+]0;/home/imran/research/apriori]0;imran@imran-Satellite-Pro-L640: ~/research/aprioriimran:~/research/apriori$ ls
+apriori.R      Output1.txt  Output3.txt  Output5.txt
+apriori.Rproj  Output2.txt  Output4.txt  [0m[01;34mtransactionfiles[0m
+]0;/home/imran/research/apriori]0;imran@imran-Satellite-Pro-L640: ~/research/aprioriimran:~/research/apriori$ rm -f *.[K[KOutput*.txt
+]0;/home/imran/research/apriori]0;imran@imran-Satellite-Pro-L640: ~/research/aprioriimran:~/research/apriori$ kkkkkkkkkkkkk[K[K[K[K[K[K[K[K[K[K[K[K[K[K]0;imran@imran-Satellite-Pro-L640: ~/research/aprioriimran:~/research/apriori$ 
